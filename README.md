@@ -17,10 +17,7 @@ This is a **simple and responsive café menu** designed using **HTML & CSS**. It
 - **CSS3** – For styling and layout design.  
 
 ### 🖼️ Project Preview  
-![Uploading image.png…]()
-
-
-
+![image](https://github.com/user-attachments/assets/b5ef0b89-3f81-47a0-9d86-58cf7c741477)
 
 ### 🚀 Live Demo  
 https://neha-meharin.github.io/cafe-menu/
